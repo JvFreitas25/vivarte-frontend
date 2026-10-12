@@ -1,0 +1,66 @@
+.admin-menu {
+  background: #2f3a3d;
+
+  display: flex;
+
+  justify-content: space-between;
+
+  align-items: center;
+
+  padding: 18px 40px;
+
+  box-shadow:
+    0 4px 15px rgba(0,0,0,0.15);
+}
+
+.admin-logo {
+  color: white;
+
+  font-size: 22px;
+
+  font-weight: bold;
+}
+
+.admin-links {
+  display: flex;
+
+  gap: 15px;
+}
+
+.admin-links button {
+  border: none;
+
+  padding: 10px 18px;
+
+  border-radius: 10px;
+
+  background: #c97b63;
+
+  color: white;
+
+  font-weight: bold;
+
+  cursor: pointer;
+
+  transition: 0.2s;
+}
+
+.admin-links button:hover {
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+
+  .admin-menu {
+    flex-direction: column;
+
+    gap: 15px;
+  }
+
+  .admin-links {
+    flex-wrap: wrap;
+
+    justify-content: center;
+  }
+
+}
