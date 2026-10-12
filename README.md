@@ -68,7 +68,7 @@ http://localhost:5173
 O backend da aplicação está disponível em:
 
 ```
-https://github.com/SEU_USUARIO/vivarte-api
+https://github.com/JvFreitas25/vivarte-backend
 ```
 
 ## 👨‍💻 Autor
