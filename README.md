@@ -74,3 +74,15 @@ https://github.com/SEU_USUARIO/vivarte-api
 ## 👨‍💻 Autor
 
 João Victor Freitas
+
+<h2>📷 Screenshots</h2>
+
+<p align="center">
+  <img src="./screenshots/homepc.png" width="45%">
+  <img src="./screenshots/itempc.png" width="45%">
+</p>
+
+<p align="center">
+  <img src="./screenshots/adminorders.png" width="45%">
+  <img src="./screenshots/cartpc.png" width="45%">
+</p>
